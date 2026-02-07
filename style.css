@@ -315,64 +315,6 @@ body {
   background-position: center;
 }
 
-/* Common style for all project images */
-.project-image {
-  height: 170px;
-  background-size: cover;
-  background-position: center;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
-}
-
-/* 1. Smart Attendance Dashboard */
-.image-1 {
-  background-image: url("https://images.unsplash.com/photo-1517245386807-bb43f82c33c4");
-}
-
-/* 2. Study Productivity Hub */
-.image-2 {
-  background-image: url("https://images.unsplash.com/photo-1523580846011-d3a5bc25702b");
-}
-
-/* 3. E‑Commerce Frontend */
-.image-3 {
-  background-image: url("https://images.unsplash.com/photo-1544947950-fa07a98d237f");
-}
-
-/* 4. Calculator App */
-.image-4 {
-  background-image: url("https://images.unsplash.com/photo-1587145820266-a5951ee6f620");
-}
-
-/* 5.To‑Do List App image – alternative */
-.image-5 {
-  background-image: url("https://images.unsplash.com/photo-1545239351-1141bd82e8a6");
-  background-size: cover;
-  background-position: center;
-}
-
-
-
-/* 6. Quiz App */
-.image-6 {
-  background-image: url("https://images.unsplash.com/photo-1523580846011-d3a5bc25702b");
-}
-
-/* 7. Event Calendar App */
-.image-7 {
-  background-image: url("https://images.unsplash.com/photo-1519744792095-2f2205e87b6f");
-}
-
-/* 8. Expense Tracker */
-.image-8 {
-  background-image: url("https://images.unsplash.com/photo-1604594849809-dfedbc827105");
-}
-
-/* 9. Invoice Generator */
-.image-9 {
-  background-image: url("https://images.unsplash.com/photo-1554224155-3a58922a22c3");
-}
-
-
 
 .project-body {
   padding: 16px 18px 18px;
